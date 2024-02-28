@@ -45,28 +45,28 @@ export const Footer = () => {
         <ul className="menu menu-horizontal w-full">
           <div className="flex justify-center items-center gap-2 text-sm w-full">
             <div className="text-center">
-              <a href="https://github.com/scobru/nostr3-monorepo" target="_blank" rel="noreferrer" className="link">
-                Fork me
+              <a href="https://x.luvnft.com" target="_blank" rel="noreferrer" className="link">
+                Follow on X
               </a>
             </div>
             <span>·</span>
             <div className="flex justify-center items-center gap-2">
               <p className="m-0 text-center">
-                Built with <HeartIcon className="inline-block h-4 w-4" /> from
+                Made with <HeartIcon className="inline-block h-4 w-4" /> by
               </p>
               <a
                 className="flex justify-center items-center gap-1"
-                href="https://github.com/scobru"
+                href="https://luvnft.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                <span className="link">Scobru</span>
+                <span className="link">LUV NFT</span>
               </a>
             </div>
             <span>·</span>
             <div className="text-center">
-              <a href="https://t.me/nostr3" target="_blank" rel="noreferrer" className="link">
-                Telegram
+              <a href="https://discord.gg/tD7AW4dw" target="_blank" rel="noreferrer" className="link">
+                Discord
               </a>
             </div>
           </div>

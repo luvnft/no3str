@@ -96,8 +96,8 @@ export const Header = () => {
             <Image alt="SE2 logo" className="cursor-pointer" fill src="/logo.svg" />
           </div> */}
           <div className="flex flex-col">
-            <span className="font-extrabold leading-tight text-3xl">NOSTR3</span>
-            <span className="text-xs">Link Web3 to nostr</span>
+            <span className="font-extrabold leading-tight text-3xl">TIP.</span>
+            <span className="text-xs">Link Web5 to nostr</span>
           </div>
         </Link>
         <ul className="hidden lg:flex lg:flex-nowrap menu menu-horizontal px-1 gap-2">
