@@ -1028,7 +1028,7 @@ const Login: NextPage = () => {
             <div>
               {filteredPubKeyEthAddressList && (
                 <div className="bg-base-100 text-base-content rounded-md mb-4 p-10 break-all">
-                  <h2 className="block font-semibold text-4xl mb-5">NOSTR3 ACCOUNTS</h2>
+                  <h2 className="block font-semibold text-4xl mb-5">TIP. ACCOUNTS</h2>
                   <input
                     type="text"
                     placeholder="Search by Nostr Public Key..."

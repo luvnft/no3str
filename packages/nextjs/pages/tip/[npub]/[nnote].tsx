@@ -263,11 +263,11 @@ const Tip: NextPage = () => {
           {!isRegistred ? (
             <div>Registerd {publicKey}</div>
           ) : (
-            <div className="mx-auto items-center text-4xl text-center">Thanks for using nostr3.</div>
+            <div className="mx-auto items-center text-4xl text-center">Thanks for using Tip.</div>
           )}
           <dialog id="tip_modal" className="modal bg-gradient-to-br from-secondary  to-slate-900">
             <div className="modal-box shadow-base-300 shadow-xl">
-              <div className="flex flex-col font-black text-4xl mb-4 mx-auto items-center justify-center">NOSTR3</div>
+              <div className="flex flex-col font-black text-4xl mb-4 mx-auto items-center justify-center">TIP.</div>
 
               <input type="text" value={nnote} className="input input-primary w-full mb-4" placeholder="Note ID" />
               <input
